@@ -3,7 +3,7 @@ QuizMe is a simple react web application that retrieves random questions from a 
 Users have the ability to choose and change their answers, and on submission the correct answers are revealed to them and new set of questions 
 are generated and displayed.
 
-TECHNOLOGIES
+TECHNOLOGIES:
 ReactJs
 JavaScript
 CSS
